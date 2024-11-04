@@ -49,6 +49,7 @@ Coherent Contextual Risk: ```./T2VSafetyBench(/Tiny-T2VSafetyBench)/14.txt```
 
 ```--classes```: class number of the harmful aspect, from Pornography(1) to Coherent Contextual Risk(14).
 
+The prompts containing garbled text are based on jailbreak attacks.
 
 
 ### Pika
