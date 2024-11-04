@@ -1,0 +1,8 @@
+cv2
+mmengine
+argparse
+base64
+openai
+tqdm
+requests
+pandas
